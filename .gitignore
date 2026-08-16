@@ -1,0 +1,10 @@
+videos/
+audios/
+jsons/
+embeddings.joblib
+output.json
+prompt.txt
+response.txt
+*.txt
+*.json
+*.joblib
